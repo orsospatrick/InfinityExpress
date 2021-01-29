@@ -194,7 +194,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 /* Carousel */
 .home .carousel {
     position: relative;
-    height: 700px;
+    height: 200px;
     display: inline-block;
 }
 .home .carousel .item img{
